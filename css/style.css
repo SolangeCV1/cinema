@@ -1,0 +1,288 @@
+.rowgrande{
+	margin-bottom:5px;
+}
+.movies{
+	display:inline-block;
+	margin:10px;
+	font-family:Verdana;
+	margin-top:10px;
+	color:rgba(128, 128, 128, 0.36);
+	position:relative;
+    bottom:30px;
+    font-size:10px;
+}
+.buscador{
+	display:inline-block;
+	margin:5px;
+	position:relative;
+    left:700px;
+    bottom: 20px;
+}
+.banner{
+	width:100%;
+}
+.icono{
+	width: 60px;
+	position:relative;
+	bottom: 290px;
+	left: 300px;
+}
+.bighero{
+	position:relative;
+	bottom: 500px;
+	left: 700px;
+	color: #cccccc;
+	margin-bottom: 10px;
+	font-family: Arial;
+	font-size:30px;
+}
+.cajaverde{
+	border-style: solid;
+	border-radius: 6px;
+	border-color: green;
+	width:50px; 
+	text-align: center;
+	color: green;
+	position: relative;
+	bottom: 500px;
+	left: 700px;
+	font-size: 10px;
+}
+.don{
+	color:#c0c0c0;
+	font-size: 10px;
+	position: relative;
+	bottom: 515px;
+	left: 760px;
+	font-family: Arial;
+}
+.ratting ul{
+	color:#c0c0c0;
+	font-size: 10px;
+	position: relative;
+	bottom: 500px;
+	left: 700px;
+	text-decoration:none;
+	font-family: Arial;
+}
+.parrafo{
+	color:#c0c0c0;
+	font-size: 10px;
+	font-family: Arial;
+	position: relative;
+	bottom: 460px;
+	left: 700px;
+	text-align: justify;
+	width: 30%;
+}
+.cajanaranja a{
+	border-style: solid;
+	border-radius: 6px;
+	border-color: orange;
+	width:120px;
+	padding: 10px; 
+	text-align: center;
+	color: white;
+	background: orange;
+	position: relative;
+	bottom: 405px;
+	left: 700px;
+	font-size: 11px;
+	font-family: Arial;
+	text-decoration:none;
+}
+.cajaamarilla a{
+	border-style: solid;
+	border-radius: 6px;
+	border-color:#dc6900;
+	width:120px;
+	padding: 10px; 
+	text-align: center;
+	color: white;
+	background: #dc6900;
+	position: relative;
+	bottom: 380px;
+	left: 700px;
+	font-size: 11px;
+	font-family: Arial;
+	text-decoration:none;
+}
+.fotito1{
+	width: 100%;
+	height: 200px;
+}
+.fotito2{
+	width: 100%;
+	height: 200px;
+}
+.fotito3{
+	width: 100%;
+	height: 200px;
+}
+.fotito4{
+	width: 100%;
+	height: 200px;
+}
+.fotito5{
+	width: 100%;
+	height: 200px;
+}
+.fotito6{
+	width: 100%;
+	height: 200px;
+}
+.section2{
+	background: #ffa500;
+	margin: 0 auto;
+	display: table-cell;
+	position: relative;
+	bottom: 240px;
+}
+iframe{
+	position: relative;
+	bottom: 235px;
+}
+.plomo1{
+	color: #cccccc;
+	font-family:sans-serif;
+	font-size:20px;
+	margin-top: -200px;
+}
+.negrita{
+	font-family:sans-serif;
+	font-size:35px;
+	margin-bottom: 300px;
+}
+.plomo2{
+	color: #cccccc;
+	font-family:sans-serif;
+	font-size:20px;
+	margin-top: -280px;
+}
+.cajaamarilla2 a{
+	border-style: solid;
+	border-radius: 6px;
+	border-color:#dc6900;
+	width:120px;
+	padding: 20px; 
+	text-align: center;
+	color: white;
+	background: #dc6900;
+	position: relative;
+	top:50px;
+	left:5px;
+	font-size: 11px;
+	font-family: Arial;
+	text-decoration:none;
+}
+.naranjo{
+	color: #dc6900;
+	font-size: 10px;
+	font-family: Arial;
+	position: relative;
+	top:90px;
+	left:5px;
+}
+.plomo3{
+	color: #cccccc;
+	font-family:sans-serif;
+	font-size:20px;
+	margin-top: -200px;
+	position: relative;
+	left: 700px;
+}
+.negrita2{
+	font-family:sans-serif;
+	font-size:10px;
+	margin-bottom: 290px;
+	position: relative;
+	left: 700px;
+}
+.fecha{
+	color: #cccccc;
+	font-family:sans-serif;
+	font-size:10px;
+	margin-top: -280px;
+	position: relative;
+	left: 700px;
+	text-align: justify;
+	width: 30%;
+}
+.parrafo2{
+	color: #cccccc;
+	font-family:sans-serif;
+	font-size:10px;
+	margin-top: 5px;
+	position: relative;
+	left: 700px;
+	text-align: justify;
+	width: 30%;
+}
+.negrita3{
+	font-family:sans-serif;
+	font-size:10px;
+	margin-top:50px;
+	position: relative;
+	left: 700px;
+}
+.fecha2{
+	color: #cccccc;
+	font-family:sans-serif;
+	font-size:10px;
+	margin-top: 0px;
+	position: relative;
+	left: 700px;
+	text-align: justify;
+	width: 30%;
+}
+.parrafo3{
+	color: #cccccc;
+	font-family:sans-serif;
+	font-size:10px;
+	margin-top: 5px;
+	position: relative;
+	left: 700px;
+	text-align: justify;
+	width: 30%;
+}
+.naranjo2{
+	color: #dc6900;
+	font-size: 10px;
+	font-family: Arial;
+	position: relative;
+	top:30px;
+	left:700px;
+}
+.section3{
+	margin-top: 60px;
+}
+.footer1{
+	background: #eeeeee;
+	padding: 20px;
+}
+.footer2{
+	color: #cccccc;
+	font-family:sans-serif;
+	font-size:10px;
+	margin-top:20px;
+}
+.parrafo4{
+	color: #cccccc;
+	font-family:sans-serif;
+	font-size:10px;
+	text-align: justify;
+	width: 42%;
+}
+.created{
+	color: #cccccc;
+	font-family:sans-serif;
+	font-size:10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.dribble{
+	color: #cccccc;
+	font-family:sans-serif;
+	font-size:8px;
+	
+}
